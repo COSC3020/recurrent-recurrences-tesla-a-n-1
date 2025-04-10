@@ -79,4 +79,4 @@ $T(n) \in \Theta(n log n)$
 
 I referenced the Master Theorem and it's cases at https://towardsdatascience.com/all-about-mater-theorem-with-its-proof-93455cdb6a4e Otherwise: "I certify that I have listed all sources used to complete this exercise, including the use of any Large Language Models. All of the work is my own, except where stated otherwise. I am aware that plagiarism carries severe penalties and that if plagiarism is suspected, charges may be filed against me without prior notice."
 
-This was my submission from last semester
+This was my submission from last semester that was approved
